@@ -1,7 +1,9 @@
+//if same corresponding digits, the digit is 0; else 1
 #include <iostream>
-#include <cmath>
+
 
 using namespace std;
+
 long long n, ans;
 
 int main()
